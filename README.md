@@ -3,7 +3,7 @@
 Welcome to my portfolio, where I showcase data projects focused on credit risk, finance, insurance, and regulatory reporting.
 
 🎓 Master’s graduate in **Quantitative Finance and Data Science**  
-📊 Developing a diverse portfolio with **Python**, **SAS**, and **Power BI**  
+📊 Developing a diverse portfolio with **Python**, **SAS**, **SQL**, **R** and **Power BI**  
 📈 Passionate about **data analytics** and **modeling credit & insurance risks**
 
 ---
